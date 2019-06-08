@@ -16,4 +16,7 @@
    - datasets.py  定义了数据集类型
    - metrics.py 一些度量模型性能的类
    - utils.py 样本组合和选择的类
+   
+ 参考：https://github.com/adambielski/siamese-triplet
+ https://github.com/DagnyT/hardnet
 
